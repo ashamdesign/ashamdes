@@ -1,0 +1,24 @@
+
+[
+   {
+       "Name":"Guide For Star Wars",
+       "game":"",
+       "Description":"",
+       "IconUrl":"https://play-lh.googleusercontent.com/L6IcCdJscm-6RksLiOD57vBXkza-vntPT-j7_4d2qmOdmrJMSxqJ1rFFfq_IWTqd2b4=s180-rw",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.starwarsjedi.fallenorder.guide"
+   },
+      {
+       "Name":"The Elder Scrolls Blades",
+       "game":"",
+       "Description":"",
+       "IconUrl":"https://play-lh.googleusercontent.com/fiEQztlVAskmYnVqzBnmcV5dnV9n1nGUHA_WSPnPsVgSrSEy1scrvRZlfaatPCSXHBQ=s180-rw",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.guidtheelder.scrolls.blades.iv"
+   },
+   {
+       "Name":"Guide For DOOM Eternal",
+       "game":"",
+       "Description":"",
+       "IconUrl":"https://play-lh.googleusercontent.com/805XfgIlin6oJTvf1iA23IZVKqRaiB1yGD-XxPKhF6LvN4HQktHRJRC7IQ4mGvXVZ03_=s180-rw",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.doom.eternal.guide"
+   }
+]
